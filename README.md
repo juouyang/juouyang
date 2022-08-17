@@ -1,9 +1,9 @@
-### Hi there 👋
-
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juouyang&hide=html&layout=compact&show_icons=true" />
-<img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=juouyang&show_icons=true" />
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juouyang&theme=graywhite&hide_border=true&hide_title=true" />
+<img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=juouyang&theme=graywhite&hide_border=true&hide_title=true" />
 
 <!--
+### Hi there 👋
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juouyang)](https://github.com/anuraghazra/github-readme-stats)
 
 **juouyang/juouyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
