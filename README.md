@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juouyang&hide=html&layout=compact&show_icons=true" />
+<img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=juouyang&show_icons=true" />
+
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juouyang)](https://github.com/anuraghazra/github-readme-stats)
 
