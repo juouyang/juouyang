@@ -1,5 +1,11 @@
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juouyang&theme=graywhite&hide_border=true&hide_title=true" />
-<img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=juouyang&theme=graywhite&hide_border=true&hide_title=true" />
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="195" alt="Ju Ouyang's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=juouyang&amp;theme=graywhite&amp;hide_border=true&amp;hide_title=true" />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="195" alt="Ju Ouyang's top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=juouyang&amp;layout=compact&amp;langs_count=8&amp;theme=graywhite&amp;hide_border=true&amp;hide_title=true" />
+  </a>
+</p>
 
 <!--
 ### Hi there 👋
